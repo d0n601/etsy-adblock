@@ -1,4 +1,4 @@
-var ads = document.getElementsByClassName('ad-iindicator');
+var ads = document.getElementsByClassName('position-absolute position-top ml-xs-1 mt-xs-1 normal z-index-1');
 
 // Polyfill Element.prototype.matches
 if (!Element.prototype.matches) {
